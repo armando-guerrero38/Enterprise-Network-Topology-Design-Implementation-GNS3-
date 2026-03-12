@@ -48,16 +48,16 @@ Designed and implemented both Layer 2 and Layer 3 network topologies using GNS3 
 ## Screenshots
 
 ### Layer 2 Topology
-![Layer 2](layer2-topology.png)
+![Layer 2](Layer 2 Topology.png)
 
 ### Layer 3 Topology
-![Layer 3](layer3-topology.png)
+![Layer 3](Layer 3 Topology.png)
 
 ### ARP Broadcast Capture
-![ARP Capture](arp-capture.png)
+![ARP Capture](Wireshark Arp Capture.png)
 
 ### Traceroute Validation
-![Traceroute](traceroute-validation.png)
+![Traceroute](Tracert.png)
 
 ### SSH Remote Access
-![SSH](ssh-access.png)
+![SSH](SSH login.png)
